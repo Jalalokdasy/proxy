@@ -93,3 +93,4 @@ After you've pulled the image, you can then run it with the same run commands as
 ```bash
 docker run -it -p 80:80 -p 443:443 -p 5222:5222 facebook/whatsapp_proxy:latest
 ```
+Hello without any reasons my Whatsapp number is blocked please check my account and unblock as soon as possible thanks. my phone number: +905360177790
